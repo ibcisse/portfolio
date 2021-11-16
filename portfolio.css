@@ -1,0 +1,96 @@
+.ACCEUIL{
+	background-image: url(./image/bg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.pre{
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+
+}
+.pre1{
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+}
+.nom{
+	color: orange;
+	font-size: 28px;
+
+}
+.nom4{
+	color: green;
+	font-size: 28px;
+	font-weight: bold
+
+}
+.nom1{
+	text-align: center;
+	margin-left: 15%;
+	color: green;
+	font-size: 20px;
+
+}
+.modal-dialog modal-xl{
+	background: white;
+	border: black;
+}
+
+.navbar-collapse .navbar-nav li{
+	padding: 2rem;
+	column-width: 3%;
+
+}
+.navbar-collapse ul li{
+	text-align: center;
+	margin-left: 5%;
+	color: white;
+
+
+}
+.disposition-paragraphe1{
+	margin-top: 25%;
+
+}
+.navbar-collapse ul li a{
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
+.nom2{
+	text-align: center;
+	margin-left: 35%;
+	color: black;
+	font-weight: bold;
+	font-size: 34px;	
+}
+.nom3{
+	color: black;
+	font-weight: bold;
+	margin-left: 2px;
+	font-size: 34px;
+}
+
+.wave2
+{
+	margin-top: -230px;
+}
+
+.waves
+{
+	margin-bottom: 100px;
+}
+.besoin{
+	width: 100px;
+}
+.presi{
+	padding-bottom: -45px;
+
+}
+.janv{
+	color: orange;
+	margin-left: : 50px;
+}
+
